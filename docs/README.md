@@ -51,22 +51,25 @@ Estas guías son **obligatorias** para poner tu sitio en funcionamiento:
 
 Estas guías te ayudarán a personalizar tu sitio:
 
-5. **Personalizar Contenido y Branding** ⏱️ 20 min
+5. **[Personalizar Contenido y Branding](./05-personalizar-contenido.md)** ⏱️ 20 min
 
    - Cambiar colores y tipografías
    - Actualizar información de contacto
    - Modificar servicios
+   - Personalizar páginas
 
-6. **Configurar SEO y Analytics** ⏱️ 15 min
+6. **[Configurar SEO y Analytics](./06-configurar-seo-analytics.md)** ⏱️ 30 min
 
-   - Google Analytics
-   - Meta tags y Open Graph
-   - Sitemap y robots.txt
+   - Google Analytics 4
+   - Google Search Console
+   - Meta tags y Schema.org
+   - Banner de cookies (GDPR)
 
-7. **Agregar y Gestionar Contenido del Blog** ⏱️ 10 min
-   - Crear artículos
-   - Agregar imágenes
-   - Publicar contenido
+7. **[Gestionar Blog y Contenido](./07-gestionar-blog.md)** ⏱️ 15 min
+   - Crear y editar artículos
+   - Optimizar para SEO
+   - Ideas de contenido
+   - Promocionar artículos
 
 ---
 
@@ -74,10 +77,14 @@ Estas guías te ayudarán a personalizar tu sitio:
 
 Estas guías te ayudarán a publicar tu sitio:
 
-8. **Preparar para Producción** ⏱️ 15 min
+8. **[Preparar para Producción](./08-preparar-produccion.md)** ⏱️ 45 min
 
-   - Checklist de pre-lanzamiento
-   - Optimizaciones finales
+   - Checklist completo de pre-lanzamiento
+   - Pruebas en múltiples dispositivos
+   - Optimización de performance
+   - Configuración de dominio y HTTPS
+   - Backups y monitoreo
+   - Lanzamiento y anuncio
    - Pruebas de rendimiento
 
 9. **Deploy Manual (Sin Vercel)** ⏱️ 30 min
