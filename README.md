@@ -1,4 +1,4 @@
-# Escribanía Sebastián Ariel Paz - Plataforma Web Profesional
+# Escribanía SAP - Plataforma Web Profesional
 
 Sitio web profesional y moderno para Escribanía S A P en Rosario, Argentina.
 
