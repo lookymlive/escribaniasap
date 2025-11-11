@@ -1,6 +1,6 @@
 # Escribanía Sebastián Ariel Paz - Plataforma Web Profesional
 
-Sitio web profesional y moderno para Escribanía Sebastián Ariel Paz en Rosario, Argentina.
+Sitio web profesional y moderno para Escribanía S A P en Rosario, Argentina.
 
 ## Características Principales
 
@@ -115,11 +115,11 @@ El sitio estará disponible en `http://localhost:3000`
 
 ## Información de Contacto
 
-**Escribanía Sebastián Ariel Paz**
-- Ubicación: Mendoza 7199, S2008 Rosario, Santa Fe
-- Teléfono: +54 341 617-7159
-- Email: escribanosebastianpaz@gmail.com
-- WhatsApp: +5493416177159
+**Escribanía  Ariel Paz**
+- Ubicación: S2008 Rosario, Santa Fe
+- Teléfono: +54 341 6711760
+- Email: lookymlive@gmail.com
+- WhatsApp: +5493416711760
 
 ## Notas Importantes
 
